@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6810" started-at="2018-11-11T08:27:30Z" finished-at="2018-11-11T08:27:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6810" started-at="2018-11-11T08:27:30Z" finished-at="2018-11-11T08:27:37Z">
+      <class name="liveECommercesiteTesting.VerifyMobileList">
+        <test-method status="PASS" signature="lanuchBrowser()[pri:0, instance:liveECommercesiteTesting.VerifyMobileList@2ef5e5e3]" name="lanuchBrowser" is-config="true" duration-ms="12781" started-at="2018-11-11T13:57:17Z" finished-at="2018-11-11T13:57:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanuchBrowser -->
+        <test-method status="PASS" signature="openEcommerceSite()[pri:0, instance:liveECommercesiteTesting.VerifyMobileList@2ef5e5e3]" name="openEcommerceSite" duration-ms="6789" started-at="2018-11-11T13:57:30Z" finished-at="2018-11-11T13:57:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openEcommerceSite -->
+      </class> <!-- liveECommercesiteTesting.VerifyMobileList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
